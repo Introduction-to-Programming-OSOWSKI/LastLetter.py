@@ -1,16 +1,26 @@
-# **Assignment Title**  
+# **Last Letter**  
 
 ## **Assignment Description**  
-
+Create a function called lastLetter() that returns the last letter of a given word w.
 
 ## **Examples**  
->
+>lastLetter("minnesota")  
+a  
+
+>lastLetter("minnow")  
+w  
 
 ## **Limitations**  
+1 function  
+0 for loops 
+0 if statements  
 
 ## **Hints**  
+[] returns the character at the position given between the braces.  
+len() returns the length of a given word between the parenthesis.  
 
 ## **Concepts**  
+Unit 1, Unit 2, lists
 
 ---
 
